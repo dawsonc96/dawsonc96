@@ -1,6 +1,6 @@
-![Image of Sunset](https://cdn3.dpmag.com/2019/10/shutterstock_1239834655.jpg)
+# 👋 Hi there! I'm Christa! 👋
 
-### Hi there 👋
+![Image of Sunset](https://cdn3.dpmag.com/2019/10/shutterstock_1239834655.jpg)
 
 Here are some ideas to get you started:
 
