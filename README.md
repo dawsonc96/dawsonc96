@@ -1,3 +1,7 @@
+If you want to embed images, this is how you do it:
+
+![Image of Sunset](https://cdn3.dpmag.com/2019/10/shutterstock_1239834655.jpg)
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -9,6 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my love for sports
 - 📫 How to reach me: dawsoncr96@gmail.com
 - 😄 Pronouns: He/Him
--->
+
+
 <!--
 **dawsonc96/dawsonc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
