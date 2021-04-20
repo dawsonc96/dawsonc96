@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**dawsonc96/dawsonc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an NBA Prediciton Outcome Model
@@ -13,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dawsoncr96@gmail.com
 - 😄 Pronouns: He/Him
 -->
+<!--
+**dawsonc96/dawsonc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
