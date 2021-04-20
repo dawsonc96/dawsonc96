@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 ## Projects
 
 ### NBA Prediction Outcomes
--Created a machine learning algorithm to predict the outcome of any given NBA game.
--Obtained and analyzed over 23,000 games from the 2003 season and beyond 
--Data cleaned and featured engineered through domain knowledge and additional exploratory analysis using Scikit-learn, Seaborn, Matplotlib, Pandas, and NumPy
--Created several different models using various techniques and ultimately obtained an accuracy score of 67%
+- Created a machine learning algorithm to predict the outcome of any given NBA game.
+- Obtained and analyzed over 23,000 games from the 2003 season and beyond 
+- Data cleaned and featured engineered through domain knowledge and additional exploratory analysis using Scikit-learn, Seaborn, Matplotlib, Pandas, and NumPy
+- Created several different models using various techniques and ultimately obtained an accuracy score of 67%
 
 ### Movie Recommendation Systems
--Used MovieLens data to recommend movies to any given user
--Retrieved over 100,000 movie ratings from MovieLens and performed exploratory data analysis using Statsmodel, Scikit-learn, Seaborn and Matplotlib
--Created a final model using KNN means and KNN baseline in order to retrieve an RMSE score of 0.8 (ratings on a 5 pt. scale)
+- Used MovieLens data to recommend movies to any given user
+- Retrieved over 100,000 movie ratings from MovieLens and performed exploratory data analysis using Statsmodel, Scikit-learn, Seaborn and Matplotlib
+- Created a final model using KNN means and KNN baseline in order to retrieve an RMSE score of 0.8 (ratings on a 5 pt. scale)
 
 ### Tanzanian Water Well Crisis
--Created a model using Tanzanian water well data from Kaggle to predict which water wells were functional and which were not
--Sourced 59,000 observations on Tanzanian water well data and used exploratory data analysis to better understand features
--Data cleaned initial observations and featured engineered over 100+ new features
--Created 6 different binary classification models, with our final model at an 82% accuracy score.
+- Created a model using Tanzanian water well data from Kaggle to predict which water wells were functional and which were not
+- Sourced 59,000 observations on Tanzanian water well data and used exploratory data analysis to better understand features
+- Data cleaned initial observations and featured engineered over 100+ new features
+- Created 6 different binary classification models, with our final model at an 82% accuracy score.
 
 
 <!--
