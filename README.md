@@ -1,5 +1,3 @@
-If you want to embed images, this is how you do it:
-
 ![Image of Sunset](https://cdn3.dpmag.com/2019/10/shutterstock_1239834655.jpg)
 
 ### Hi there 👋
