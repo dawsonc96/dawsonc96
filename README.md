@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about more advanced SQL techniques
 - 👯 I’m looking to collaborate on a Tableau Project
 - 🤔 I’m looking for help with my job search
-- 💬 Ask me about my love for sports
+- 💬 Interests include sports, film, media, data analytics (obviously) and reading
 - 📫 How to reach me: dawsoncr96@gmail.com
 - 😄 Pronouns: He/Him
 
