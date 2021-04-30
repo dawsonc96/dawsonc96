@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 - Data cleaned initial observations and featured engineered over 100+ new features
 - Created 6 different binary classification models, with our final model at an 82% accuracy score.
 
+### Housing Price Predictor
+- Utilized machine learning algorithms to forecast housing prices based on available and engineered features. 
+- Aggregated data from zillow.com and generated data from niche.com with web scraping. 
+- Conducted EDA using Seaborn, Numpy, and Scikit-learn for data cleaning and feature engineering 
+- Utilized linear regression to create a prediction model based on feature selection using wrapper tests.  
+
 
 <!--
 **dawsonc96/dawsonc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
