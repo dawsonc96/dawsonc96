@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Tanzanian Water Well Crisis
 - Created a model using Tanzanian water well data from Kaggle to predict which water wells were functional and which were not
 - Sourced 59,000 observations on Tanzanian water well data and used exploratory data analysis to better understand features
-- Data cleaned initial observations and featured engineered over 100+ new features
+- Data cleaned initial observations and featured engineered over 100+ new featuresk
 - Created 6 different binary classification models, with our final model at an 82% accuracy score.
 
 ### Housing Price Predictor
