@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-k
+
 <!--
 **dawsonc96/dawsonc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
