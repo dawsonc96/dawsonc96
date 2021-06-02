@@ -1,5 +1,5 @@
 # 👋  Hi there! I'm Christa! 👋
-kkkkkkkkkkkkkk
+kkkkkkkkkkkkk
 Experience Data Scientist brought up on Python, SQL and Tableau. An agile learner and professional who combines exceptional interpersonal skills with strong analytical expertise. Skilled in  data acquisition and data modeling, statistical analysis, machine learning, deep learning, recommendation systems, and NLP. With a background in recruiting, real estate, and finance. Strong capacities in mathematics, economics, team building, project management and sales to drive increased revenue and efficiency. Effective collaborator and relationship builder, recognized for versatility, creativity, perspective, sense of humor, and strong work ethic.
 
 - 🔭 I’m currently working on an NBA Prediciton Outcome Model and Several DataCamp Projects
